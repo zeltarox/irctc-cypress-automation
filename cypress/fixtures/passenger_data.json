@@ -1,13 +1,13 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/07/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "22537",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "29/08/2024",
+  "SOURCE_STATION": "BST",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
+  "DESTINATION_STATION": "LTT",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "abushadsiddiqui7864@oksbi",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Shivam Pandey",
